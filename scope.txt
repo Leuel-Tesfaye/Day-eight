@@ -1,0 +1,9 @@
+Variables scopes can be:
+1. Global
+2. Local
+
+Anything declared without let, var or const is scoped at global level.
+
+A variable declared as local can be accessed only in certain block code.
+1. Block Scope
+2. Function Scope
